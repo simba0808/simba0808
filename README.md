@@ -162,17 +162,12 @@
 
 # Reach out to me #
 <p align="center">
-  <a href="mailto:stevejin88@gmail.com"><img
+  <a href="mailto:stevejin88@gmail.com">
+    <img
       src="https://img.icons8.com/color/2x/gmail.png"
-      alt="Gmail" width="40" title="Send mail"></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/EGb69cmD" target="_blank" rel="noopener noreferrer"><img
-      src="https://img.icons8.com/color/2x/discord.png" width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/u2vklNNdJrWX" target="_blank" rel="noopener noreferrer"><img
-      src="https://img.icons8.com/color/2x/skype.png" width="40" /></a>
-  &nbsp;&nbsp;
-  <p align="center">
+      alt="Gmail" width="40" title="Send mail">
+    <p align="center">
     To comtact me.  stevejin88@gmail.com
-  </P>
+    </P>
+  </a>
 </p>
