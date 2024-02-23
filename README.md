@@ -13,7 +13,7 @@
   - 😍 Developed some AI Apps and integrated with web and ChatGPT.</br>
 </div>
 
-# 💻 My favorite tools and technologies
+# 💻 My Activities
 <div style="display: flex; align-items: flex-start; align: center">
   
   <br>
