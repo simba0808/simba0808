@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 #
 <p>
-  <h2>I'm Steve Jin, a full-time full-stack developer 👨‍💻 working remotely since 2019 🚀</h2>
+  <h2>I'm Steve Jin, a senior Blockchain full-stack developer 🚀</h2>
 </p>
 
 <div>
