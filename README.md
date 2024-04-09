@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/simba0808?tab=repositories"><img
-      src="https://github-readme-stats-one-bice.vercel.app/api?username=simba0808&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+      src="https://github-readme-stats-one-bice.vercel.app/api?username=simba0808&theme=gotham&show_icons=true&rank_icon=percentile&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
       width="48%" height="160px" alt="@steve jin's github-readme-stats" /></a>
   <a href="https://wakatime.com/@stevejin88"><img
       src="https://github-readme-stats.vercel.app/api/wakatime?username=stevejin88&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"
