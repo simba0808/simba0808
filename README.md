@@ -32,10 +32,10 @@
 <p align="center">
   <a href="https://github.com/simba0808?tab=repositories"><img
       src="https://github-readme-stats.vercel.app/api?username=simba0808&theme=gotham&show_icons=true&rank_icon=percentile&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
-      width="48%" height="160px" alt="@steve jin's github-readme-stats" /></a>
+      width="48%" height="220px" alt="@steve jin's github-readme-stats" /></a>
   <a href="https://wakatime.com/@stevejin88"><img
       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=simba0808&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=gotham#gh-light-mode-only"
-      width="48%" height="160px" alt="@Steve's wakatime stats" /></a>
+      width="48%" height="220px" alt="@Steve's wakatime stats" /></a>
 </p>
 <br/>
 <div align="center">
