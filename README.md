@@ -10,7 +10,6 @@
   - 🔭 Proven track record of delivering high-quality, scalable applications that meet and exceed client expectations. 
   Seeking a challenging role where I can utilize my skills and knowledge to drive innovation and success in the blockchain industry.<br />
   - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br />
-  - 😍 Developed some AI Apps and integrated with web and ChatGPT.</br>
 </div>
 
 # 💻 My Activities
@@ -34,8 +33,8 @@
       src="https://github-readme-stats.vercel.app/api?username=simba0808&theme=gotham&show_icons=true&rank_icon=percentile&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
       width="48%" height="220px" alt="@steve jin's github-readme-stats" /></a>
   <a href="https://wakatime.com/@stevejin88"><img
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=simba0808&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=gotham#gh-light-mode-only"
-      width="48%" height="220px" alt="@Steve's wakatime stats" /></a>
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=stevejin88&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"
+      width="48%" height="160px" alt="@Steve's wakatime stats" /></a>
 </p>
 <br/>
 <div align="center">
