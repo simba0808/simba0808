@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 #
 <p>
-  <h2>I'm a senior Blockchain full-stack developer 🚀</h2>
+  <h2>I'm a Passionate Blockchain full-stack developer 🚀</h2>
 </p>
 
 <div>
