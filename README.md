@@ -34,7 +34,7 @@
       width="48%" height="220px" alt="@steve jin's github-readme-stats" /></a>
   <a href="https://wakatime.com/@stevejin88"><img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=simba0808&langs_count=10&layout=compact&theme=gotham&range=all_time&hide_border=true"
-      width="48%" height="160px" alt="@Steve's wakatime stats" /></a>
+      height="220px" alt="@Steve's wakatime stats" /></a>
 </p>
 <br/>
 <div align="center">
