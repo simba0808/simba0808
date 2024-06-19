@@ -38,9 +38,8 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@simba"><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=simba0808&langs_count=10&layout=compact&theme=gotham&range=all_time&hide_border=true"
-      height="220px" alt="@simba's wakatime stats" /></a>
+  <a href="https://wakatime.com/@simba0808"><img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=simba0808&langs_count=10&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@simba's wakatime stats" /></a>
 </p>
 <br/>
 <div align="center">
