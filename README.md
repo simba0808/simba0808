@@ -38,9 +38,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/simba0808?tab=repositories"><img
-      src="https://github-readme-stats.vercel.app/api?username=simba0808&theme=gotham&show_icons=true&rank_icon=percentile&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
-      width="48%" height="220px" alt="@simba's github-readme-stats" /></a>
   <a href="https://wakatime.com/@simba"><img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=simba0808&langs_count=10&layout=compact&theme=gotham&range=all_time&hide_border=true"
       height="220px" alt="@simba's wakatime stats" /></a>
