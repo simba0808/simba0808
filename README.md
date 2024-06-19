@@ -39,7 +39,9 @@
 
 <p align="center">
   <a href="https://wakatime.com/@simba0808"><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=simba0808&langs_count=10&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@simba's wakatime stats" /></a>
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=simba0808&theme=gotham&hide_border=true&layout=compact&langs_count=14&range=all_time" alt="@simba's wakatime stats" /></a>
+  <a href="https://wakatime.com/@simba0808"><img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=simba0808&langs_count=14&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@simba's wakatime stats" /></a>
 </p>
 <br/>
 <div align="center">
