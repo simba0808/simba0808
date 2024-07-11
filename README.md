@@ -47,15 +47,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stevejin88&&style=flat-square" align="center" />
 </div>  
-
-# Reach out to me #
-<p align="center">
-  <a href="mailto:simba960808@gmail.com">
-    <img
-      src="https://img.icons8.com/color/2x/gmail.png"
-      alt="Gmail" width="40" title="Send mail">
-    <p align="center">
-    To comtact me.  simba960808@gmail.com
-    </P>
-  </a>
-</p>
